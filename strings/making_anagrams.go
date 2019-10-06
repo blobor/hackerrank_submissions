@@ -1,6 +1,6 @@
 package strings
 
-// Strings: MakingAnagrams
+// Strings: Making Anagrams
 // More info: https://www.hackerrank.com/challenges/ctci-making-anagrams
 
 // MakeAnagram returns a single integer denoting the number of characters
